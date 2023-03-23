@@ -1,0 +1,10 @@
+CSS
+
+h1 { = 
+	font-family: Arial;
+	}
+(h1) é o seletor e o que estiver dentro é declaração
+(font-family:;) é uma propriedade
+(Arial) é um valor
+
+

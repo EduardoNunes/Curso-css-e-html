@@ -1,0 +1,42 @@
+HTML
+
+<!-- comentário -->> = adiciona comentário em HTML
+
+<h1> = abertura de tag
+</h1> = fechamento de tag
+
+<img src="" alt="exemplo"
+<img> = abertura tag
+src="" e alt="" = parâmetro
+o que estiver dentro do parâmetro são os valores
+
+<DOCTYPE html> = tag de especificação de HTML5
+<html lang=pt-br"> = abertura da tag html
+	<head> = abertura da area de configurações
+		<meta charset="UTF-8" = tag q faz site compatível com caracteres utf8
+		<meta name="viewport"        =
+		content="width=device-width, = tag q define q o site vai abrir em escala de 100%
+		initial-scale=1.0">          =
+		<title>Documento</title> Tag de título do site
+	</head> = fechamento da area de configurações
+	<body> = abertura da area de corpo
+
+	</body> = fechameto da area de corpo
+</html> = fechamento da tag html
+
+<hr> = adiciona linha horizontal
+&lt; = significa Less Than, adiciona o sinal de < no texto 
+&gt; = significa greater than, adiciona o sinal de > no texto
+Ex.: <p>nesse texto a palavra teste é impressa na tela entre os sinais de menor e maior &lt;texte&gt; em forma de parágrafo, mas pode ser usada em qualquer modelo de impressão de texto</p>
+____________________________________________________________________________________
+símbolos
+&reg; = adiciona marca registrada
+&copy; = adiciona marca copyright
+&trade; = adiciona o TM pequeno
+&euro &pound &yen &cent = adiciona símbolos de moedas
+&delta = delta minúsculo
+&Delta = delta Maiúsculo
+&uarr = seta p cima
+
+emoji
+Vai no emojipedia e pega o código e digita no html: &#x e adiciona o código do emoji
