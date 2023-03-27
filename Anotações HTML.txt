@@ -40,3 +40,26 @@ símbolos
 
 emoji
 Vai no emojipedia e pega o código e digita no html: &#x e adiciona o código do emoji
+_________________________________________________________________________________________
+Termos sem semântica
+<b> negrito 
+<i> itálico
+<u> sublinhado
+
+termos com semântica
+<strong> => mesmo resultado do negrito, porém com semântica
+<em> => mesmo resultado do itálico, porém com semântica
+<mark> => marcador de texto tipo hidrocor amarelo
+<small> => reduz o tamanho do texto (colocando como se fosse secundário)
+<del> => marca texto como excluído (ele aparece com uma linha cortando o texto ao meio)
+<ins> => marca como texto inserdio (destaca o texto com um sublinhado indicando que foi inserido)
+<sup> => coloca o texto sobrescrito tipo o número da potenciação
+<sub> => coloca o texto subescrito tipo o 2 de H2O
+<pre> => organiza o texto como programação
+<code> => usa fonte de código para que todas as fontes ocupe o msm espaço
+<q> => coloca aspa de citação, sempre q for uma citação usa-se essa tag
+<blockquote cite="link"> => Citação mais longa com referência 
+<abbr title=""> => Usado em abreviações, serve pra colocar um marcador mostrando o significado das abreviações
+<bdo dir="rtl"> => coloca o texto invertido da direita p esquerda e ltl coloca ao contrário
+
+______________________________________________________________________________________
