@@ -63,3 +63,13 @@ termos com semântica
 <bdo dir="rtl"> => coloca o texto invertido da direita p esquerda e ltl coloca ao contrário
 
 ______________________________________________________________________________________
+Listas
+<ol type="1" start="4">    => lista ordenada do tipo numérica (se colocar A no lugar de 1 passa a ser marcação alfabética, I passa a ser romano) e começando em 4
+   <li> 		   => item da lista
+
+<ul type="disc">     => Lista não ordenada (disc, circle ou square)
+   <li>
+
+<dl>                => Lista de definição (não tem número nem símbolo
+   <dt>             => Termo
+   <dd>		    => Descrição
