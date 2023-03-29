@@ -28,6 +28,8 @@ o que estiver dentro do parâmetro são os valores
 &lt; = significa Less Than, adiciona o sinal de < no texto 
 &gt; = significa greater than, adiciona o sinal de > no texto
 Ex.: <p>nesse texto a palavra teste é impressa na tela entre os sinais de menor e maior &lt;texte&gt; em forma de parágrafo, mas pode ser usada em qualquer modelo de impressão de texto</p>
+target"_blank" => redireciona o link sem fechar a página atual
+rell"external" => indica q o link é um link externo
 ____________________________________________________________________________________
 símbolos
 &reg; = adiciona marca registrada
