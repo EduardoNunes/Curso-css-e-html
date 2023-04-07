@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias HTML</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente ou diminua o tamanho do seu navegador</p>
+    <!-- funciona como @media query do css -->
+    <!-- É IMPORTANTE MANTER A ORDEM A MENOR EM CIMA E A MAIOR EM BAIXO -->
+    <source media="(max-width: 750)" srcset="imagem pequena" type="image/">
+    <source media="(max-width: 1000px)" srcset="imagem media" type="image/">
+    <img src="imagem maior" alt="">
+</body>
+</html>
